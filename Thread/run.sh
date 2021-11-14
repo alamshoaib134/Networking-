@@ -1,6 +1,6 @@
 #!/bin/bash
-python client.py &
-python client.py &
-python client.py &
-python client.py &
-python client.py &
+python client_thread.py &
+python client_thread.py &
+python client_thread.py &
+python client_thread.py &
+python client_thread.py &
